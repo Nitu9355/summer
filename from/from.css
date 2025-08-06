@@ -1,0 +1,23 @@
+*{
+            margin: 0;
+            padding: 0;
+        }
+        .font-from{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: bolder;
+            font-size: 1.25rem;
+        }
+        .donation-from{
+            margin: 20px 150px;
+        }
+        .required::after {
+            content: " *";
+            color: red;
+        }
+        .head{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-weight: bolder;
+        }
+        .h-div{
+            margin-left: 280px;
+        }
