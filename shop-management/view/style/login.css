@@ -6,6 +6,8 @@ body{
     margin-top: 200px;
 }
 .form-container{
-    background-color: cadetblue;
+    background-color: skyblue;
+    opacity: 90%;
     padding: 20px 20px;
+    border-radius: 10px;
 }
