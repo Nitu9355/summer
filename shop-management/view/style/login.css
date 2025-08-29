@@ -1,0 +1,11 @@
+body{
+    
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+.form-container{
+    background-color: cadetblue;
+    padding: 20px 20px;
+}
